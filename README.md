@@ -1,2 +1,2 @@
 # Introduction
-summary
+2026智慧物聯網課程之實作成果，老師指定採用Antigravity作為開發輔助工具
